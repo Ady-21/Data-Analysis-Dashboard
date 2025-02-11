@@ -9,14 +9,14 @@ The Luxemart Store wants to create an annual sales report for 2024. So that, the
 -	Compare the sales and orders using single chart.
 -	Which month got the highest sales and orders?
 -	Who purchased more - Men or Women?
--	What is different order status in 2024?
--	List top 5 states contributing to the sales?
+-	What is the different order status in 2024?
+-	List the top 5 states contributing to the sales.?
 -	Relation between age and gender based on number of orders.
--	Which Channel is contributing maximum to the sales?
+-	Which Channel is contributing the maximum to the sales.?
 -	Highest selling category?
 -	Percentage of Total Orders delivered
 
--	  Dashboard Interaction <a href="https://github.com/Ady-21/Data-Analysis-Dashboard/blob/main/Project%20SS..PNG">View Dashboard</a>
+-	Dashboard Interaction <a href="https://github.com/Ady-21/Data-Analysis-Dashboard/blob/main/Project%20SS..PNG">View Dashboard</a>
 
 ## Process
 -	Verify data for missing values and anomalies, and sort out the same.
