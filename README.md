@@ -25,5 +25,7 @@ The Luxemart Store wants to create an annual sales report for 2024. So that, the
 -	Merge all pivot tables into one dashboard and apply a slicer to make it dynamic.
 
 ## Dashboard
+ ![Project SS](https://github.com/user-attachments/assets/1a2ff75e-c127-4d89-95e6-1d4d1ac99215)
+
 
 
